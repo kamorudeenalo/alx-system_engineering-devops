@@ -20,4 +20,6 @@ This is a README file
 
 #Task 9: rmdir /tmp/my_first_directory - Deletes the directory my_first_directory that is in the /tmp directory.
 
+#Task 10: cd .. - Changes the working directory to the previous one.
+
 
